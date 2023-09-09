@@ -1,2 +1,1 @@
-# results-summary-component-main-Front-end-Mentor-challenge-2
-results-summary-component-main-Front-end-Mentor-challenge-2
+## I found this design on front end mentor and I decide to clone it in HTML and CSS
